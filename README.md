@@ -11,6 +11,8 @@
 - Firebase Setup
 - Deploying Our App to Production
 - Create SignUp User Account
+- Implement SignIn with Firebase
+- Setup Redux store
 
 # Features
 
